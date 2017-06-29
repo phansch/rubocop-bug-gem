@@ -1,0 +1,13 @@
+---
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+  Exclude:
+    - config/application.rb
+
+Style/EmptyLines:
+  Exclude:
+    - config/application.rb
+
+Documentation:
+  Exclude:
+    - config/application.rb
