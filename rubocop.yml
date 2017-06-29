@@ -12,5 +12,5 @@ Style/Documentation:
   Exclude:
     - config/application.rb
 
-Style/LineLength:
+Metrics/LineLength:
   Max: 120
