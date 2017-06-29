@@ -8,6 +8,9 @@ Style/EmptyLines:
   Exclude:
     - config/application.rb
 
-Documentation:
+Style/Documentation:
   Exclude:
     - config/application.rb
+
+Style/LineLength:
+  Max: 120
